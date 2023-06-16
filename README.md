@@ -5,4 +5,4 @@
   <li> CSS </li>
   </ol>
   
-  <h2> Live Server Link: </h2>
+  <h2> Live Server Link: https://charming-selkie-a34d37.netlify.app </h2>
