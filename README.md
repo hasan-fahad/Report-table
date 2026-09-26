@@ -1,4 +1,4 @@
-# Report-table
+## Report-table
 
 <h3> Feature Use </h3>
 <ol> <li> HTML </li>
